@@ -24,6 +24,7 @@
 # - hp (HP-UX)              /dev/tty%dp0 (not tested)
 # - sunos (Solaris/SunOS)   /dev/tty%c (letters, 'a'..'z') (confirmed)
 # - aix (AIX)               /dev/tty%d
+# - haiku (Haiku)           /dev/ports/*
 
 
 from __future__ import absolute_import
